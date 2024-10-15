@@ -75,12 +75,6 @@ ls -l
 echo $HOME
 ```
 
-## Project Structure
-
-- `src/`: Contains the source code files for the shell implementation.
-- `include/`: Contains header files with function declarations and data structures.
-- `makefile`: The makefile for building the project.
-
 ## Technical Details
 
 ### Command Parsing
